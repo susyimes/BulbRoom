@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\BulbRoom\StandOutSDK\assets"/><source path="C:\BulbRoom\StandOutSDK\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\BulbRoom\StandOutSDK\build-types\debug\assets"/></dataSet></merger>
